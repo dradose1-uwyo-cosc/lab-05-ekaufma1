@@ -1,6 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Eleanor Kaufman
+# UWYO COSC 1010
+## Lab #5
+# Lab Section: 15
+## Submission date: 10/09/24
 ## Worked with/sources 
 * example
 * example
